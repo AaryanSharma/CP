@@ -1,9 +1,9 @@
 # Problem Checklist
 
 - [x] To My Critics
-- [ ] Rudolph and Cut the Rope
-- [ ] 1D Eraser
-- [ ] Number Spiral
+- [x] Rudolph and Cut the Rope
+- [x] 1D Eraser
+- [x] Number Spiral
 - [ ] SPOJ TDPrimes
 - [ ] CSES Exponentiation
 - [ ] CSES Counting Divisors
