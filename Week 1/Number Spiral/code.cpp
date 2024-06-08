@@ -2,15 +2,23 @@
 using namespace std;
 
 int main(){
-int t,a,b,sum=0;
+long t,a,b,answer,max_num;
 cin>>t;
 for (int i=0;i<t;i++){
     cin>>a>>b;
-    for(int j=0;j<max(a,b);j++){
-        sum+=2*j+1;
+    max_num=max(a,b);
+    if (max_num==a) {
+        if(a%2==1)
+            answer= (a-1)*(a-1)+b;
+        else
+            answer= a*a-b+1;
     }
-    sum=sum-min(a,b)+1;
-    cout << sum << "\n";
-    sum=0;
+    else{
+        if(b%2==0)
+            answer= (b-1)*(b-1)+a;
+        else
+            answer= b*b-a+1;
+    }
+    cout <<answer <<"\n";
 }
 }
