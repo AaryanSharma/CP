@@ -16,7 +16,7 @@
 - [ ] Group Anagrams
 - [ ] nCr mod M
 
-#Help Taken 
+## Help Taken 
 
 1. Number Spiral
 2. SPOJ TDPrimes
