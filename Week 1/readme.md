@@ -5,7 +5,7 @@
 - [x] 1D Eraser
 - [x] Number Spiral 
 - [x] SPOJ TDPrimes
-- [ ] CSES Exponentiation
+- [x] CSES Exponentiation
 - [ ] CSES Counting Divisors
 - [ ] Find (a^b)%m
 - [ ] ETF - Euler Totient Function
