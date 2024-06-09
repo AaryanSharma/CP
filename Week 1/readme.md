@@ -3,8 +3,8 @@
 - [x] To My Critics
 - [x] Rudolph and Cut the Rope
 - [x] 1D Eraser
-- [x] Number Spiral
-- [ ] SPOJ TDPrimes
+- [x] Number Spiral 
+- [x] SPOJ TDPrimes
 - [ ] CSES Exponentiation
 - [ ] CSES Counting Divisors
 - [ ] Find (a^b)%m
@@ -15,3 +15,8 @@
 - [ ] 3Sum
 - [ ] Group Anagrams
 - [ ] nCr mod M
+
+#Help Taken 
+
+1. Number Spiral
+2. SPOJ TDPrimes
