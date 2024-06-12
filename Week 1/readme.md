@@ -6,9 +6,9 @@
 - [x] Number Spiral 
 - [x] SPOJ TDPrimes
 - [x] CSES Exponentiation
-- [ ] CSES Counting Divisors
-- [ ] Find (a^b)%m
-- [ ] ETF - Euler Totient Function
+- [x] CSES Counting Divisors
+- [x] Find (a^b)%m
+- [x] ETF - Euler Totient Function
 - [ ] Ebony and Ivory
 - [ ] Get AC in one go
 - [ ] SPOJ HISTOGRA
